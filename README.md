@@ -1,5 +1,5 @@
 # BreakTheTargets
-ゲームBreakTheTargetsのレポジトリです。自分のコーディング部分だけを載せ、ゲーム素材や外部ライブラリは除いています。すべてを含んだ実行できるデータはGoogleDriveに上げていますのでそちらをご確認ください。  
+ゲームBreakTheTargetsのレポジトリです。自分のコーディング部分だけを載せ、ゲーム素材や外部ライブラリ(JSONファイルのparserのみ)は除いています。すべてを含んだ実行できるデータはGoogleDriveに上げていますのでそちらをご確認ください。  
 →https://drive.google.com/file/d/1Ekp11dKfo1qQ0C-eM7OfF4xvzNH4eSbW/view?usp=sharing
 
 ## プレイ動画
